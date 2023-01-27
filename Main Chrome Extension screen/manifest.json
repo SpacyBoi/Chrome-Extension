@@ -1,0 +1,32 @@
+{
+    "manifest_version": 2, 
+    "name": "B-Efficient", 
+    "permissions": [ "alarms", "notifications", "contextMenus", "storage" ],
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEfAAOCAQ8AMIIBCgKCAQEAkibxPzks/FoPvAd9T68vPFYCCnvqgzegz0ECpWA5IUnZ9wKW1F28iTgHbFIkM06cGNtd29UdPu1IAIhf99nn/Pg70cwY8p3v6CMbsZq2BCDOCW6aLOloOeJH0Vmp/Xhw6SXTJMTp+58JCE7c4ATI0vnsm4JAFuYz97ROR8xoy5XDzAtj3PRzSb5PZdu+JcCmjtm+woOVBs2rQRsN+39kxrHWYjAaV/PYc8M2C3ZZsKC99synLEL9Idvx4tKFg0uXT1Rdc9v4GPxyTuTa3w1y3b30lywrZ5jCwK14attgBp5AfsDKpCd+SccKmbe/UHd9iJSTykY6xRTO7iJBrrWAOwIDAQAB",
+    "description": "E", 
+    "version": "1.0.0",
+    "default_locale": "en",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ], 
+            "js": ["content.js"]
+        }
+    ], 
+    "background": {
+        "scripts": ["background.js"]
+
+    }, 
+
+    "browser_action": {
+        "default_popup": "Hello.html#!list",
+        "default_title": "B-Efficient"
+    }
+
+
+}
+    
+
+   

@@ -1,0 +1,263 @@
+{
+   "extension_contextMenuLabel": {
+      "message": "Create new reminder"
+   },
+   "extension_description": {
+      "message": "Hello your brain have a virus"
+   },
+   "extension_name": {
+      "message": "Reminders"
+   },
+   "header_back": {
+      "message": "Menu"
+   },
+   "header_done": {
+      "message": "Finish"
+   },
+   "header_save": {
+      "message": "Save"
+   },
+   "list_activeReminders": {
+      "message": "Reminder"
+   },
+   "list_addNew": {
+      "message": "Add new reminder"
+   },
+   "list_item_editReminder": {
+      "message": "Edit reminder"
+   },
+   "list_item_removeReminder": {
+      "message": "Remove reminder"
+   },
+   "list_noActiveReminders": {
+      "message": "No active reminders"
+   },
+   "list_noPastReminders": {
+      "message": "No archive reminders"
+   },
+   "list_pageTitle": {
+      "message": "Reminders"
+   },
+   "list_pastReminders": {
+      "message": "Archive"
+   },
+   "notification_done": {
+      "message": "Done"
+   },
+   "notification_reminder": {
+      "message": "Reminder"
+   },
+   "notification_task": {
+      "message": "Blank"
+   },
+   "reminder_alarm_notificationExplanation": {
+      "message": "Set the time to remind you"
+   },
+   "reminder_alarm_openAt": {
+      "message": "Open at"
+   },
+   "reminder_alarm_repeat": {
+      "message": "Repeat"
+   },
+   "reminder_alarm_repeat_custom": {
+      "message": "Custom"
+   },
+   "reminder_alarm_repeat_customExtended": {
+      "message": "Custom time"
+   },
+   "reminder_alarm_repeat_daily": {
+      "message": "Daily"
+   },
+   "reminder_alarm_repeat_dailyExtended": {
+      "message": "Every day"
+   },
+   "reminder_alarm_repeat_hourly": {
+      "message": "Hourly"
+   },
+   "reminder_alarm_repeat_hourlyExtended": {
+      "message": "Every hour"
+   },
+   "reminder_alarm_repeat_monthly": {
+      "message": "Monthly"
+   },
+   "reminder_alarm_repeat_monthlyExtended": {
+      "message": "Every month"
+   },
+   "reminder_alarm_repeat_never": {
+      "message": "Never"
+   },
+   "reminder_alarm_repeat_neverExtended": {
+      "message": "Never"
+   },
+   "reminder_alarm_repeat_repeatEvery": {
+      "message": "Repeat every"
+   },
+   "reminder_alarm_repeat_repeatEvery_minutes": {
+      "message": "Minutes"
+   },
+   "reminder_alarm_repeat_weekly": {
+      "message": "Weekly"
+   },
+   "reminder_alarm_repeat_weeklyExtended": {
+      "message": "Every week"
+   },
+   "reminder_alarm_repeat_yearly": {
+      "message": "Yearly"
+   },
+   "reminder_alarm_repeat_yearlyExtended": {
+      "message": "Every year"
+   },
+   "reminder_alarm_showAt": {
+      "message": "Time"
+   },
+   "reminder_alarm_tabExplanation": {
+      "message": "Set the time that the a new tab will be opened at."
+   },
+   "reminder_editPageTitle": {
+      "message": "Edit reminder"
+   },
+   "reminder_newPageTitle": {
+      "message": "New reminder"
+   },
+   "reminder_priority": {
+      "message": "Color"
+   },
+   "reminder_priorityExplanation": {
+      "message": "To identify the different tasks"
+   },
+   "reminder_priority_high": {
+      "message": "High"
+   },
+   "reminder_priority_low": {
+      "message": "Low"
+   },
+   "reminder_priority_medium": {
+      "message": "Medium"
+   },
+   "reminder_priority_none": {
+      "message": "None"
+   },
+   "reminder_settings": {
+      "message": "Settings"
+   },
+   "reminder_settings_removeAfterActivation": {
+      "message": "Don't save to Archive"
+   },
+   "reminder_settings_sound": {
+      "message": "Ringtone"
+   },
+   "reminder_tab": {
+      "message": "Tab"
+   },
+   "reminder_tab_makeTabActive": {
+      "message": "Open in new window"
+   },
+   "reminder_tab_urlAddress": {
+      "message": "URL"
+   },
+   "reminder_text": {
+      "message": "Notification"
+   },
+   "reminder_text_notificationExplanation": {
+      "message": "The text that you want to be reminded"
+   },
+   "reminder_text_reminderText": {
+      "message": "Reminder text"
+   },
+   "reminder_type": {
+      "message": "Reminder type"
+   },
+   "reminder_type_notification": {
+      "message": "Notification"
+   },
+   "reminder_type_tab": {
+      "message": "New tab"
+   },
+   "reminder_type_text": {
+      "message": "Text"
+   },
+   "reminder_type_task": {
+      "message": "None"
+   },
+   "settings_defaultReminderSettings": {
+      "message": "Default settings"
+   },
+   "settings_defaultReminderSettings_defaultPriority": {
+      "message": "Default colors"
+   },
+   "settings_defaultReminderSettings_defaultRemove": {
+      "message": "Don't save to archive"
+   },
+   "settings_defaultReminderSettings_defaultSound": {
+      "message": "default Ringtone"
+   },
+   "settings_defaultReminderSettings_defaultSound_removeEnabled": {
+      "message": "Removing enabled"
+   },
+   "settings_defaultReminderSettings_defaultSound_soundEnabled": {
+      "message": "Sound enabled"
+   },
+   "settings_defaultReminderSettings_defaultType": {
+      "message": "Default reminding type"
+   },
+   "settings_displayCounter": {
+      "message": "Display counter"
+   },
+   "settings_displayCounterExplanation": {
+      "message": "Enables displaying active reminders number on the extension icon."
+   },
+   "settings_keepNotification": {
+      "message": "Keep notification"
+   },
+   "settings_keepNotificationExplanation": {
+      "message": "Keep notification after it finishes"
+   },
+   "settings_pageTitle": {
+      "message": "Settings"
+   },
+   "settings_popupSize_compact": {
+      "message": "Compact"
+   },
+   "settings_resetExplanation": {
+      "message": "This will remove all settings and reminders"
+   },
+   "settings_resetExtensionData": {
+      "message": "Reset settings"
+   },
+   "settings_reset_confirmation": {
+      "message": "Do you really want to reset?"
+   },
+   "settings_reset_success": {
+      "message": "Resetted"
+   },
+   "settings_sortBy_activateAt": {
+      "message": "Activation time"
+   },
+   "settings_sortBy_createdAt": {
+      "message": "Creation date"
+   },
+   "settings_sortBy_priority": {
+      "message": "Color"
+   },
+   "settings_sortOrder": {
+      "message": "Sort order"
+   },
+   "settings_sortOrder_descending": {
+      "message": "Descending"
+   },
+   "settings_sound": {
+      "message": "Sound"
+   },
+   "settings_sound_notificationSound": {
+      "message": "Sound/Ringtone"
+   },
+   "settings_technicalInfo": {
+      "message": "Technical info"
+   },
+   "settings_technicalInfo_currentLocale": {
+      "message": "Current locale"
+   },
+   "settings_technicalInfo_extensionVersion": {
+      "message": "Extension version"
+   }
+}
