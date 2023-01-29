@@ -33,10 +33,15 @@ Now, the problematic thing is that this reminder feature is also another chrome 
 Here are the files that are for the Reminder features: 
 
 _locales/en: message.json
+
 Audios: all the mp3 
+
 Scripts: dependencies.min.js, extension.min.js
+
 Style: extension.min.css
+
 Views: base.html, list.html, list.item.html, reminder.html, repeat.html, setting.defaultReminder.html, settings.html, settings.sound.html
+
 Others: Index.html 
 
 Note: I didn't include the original manifest.json file for this feature because I combined it, but Im not sure if it works, so we should discuss it next time. 
