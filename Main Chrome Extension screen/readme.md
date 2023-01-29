@@ -28,7 +28,9 @@ My second feature is a Reminder feature where when a user input a specific time 
 
 My friend had mostly done the work for this feature as it requires a lot of Javascript. He had coded most of the feature. 
 
-Now, the problematic thing is that this reminder feature is also another chrome extension itself. I want to combine my Main Chrome Extension Screen with this extension to make it into one single extension. To do that, I've redirected the files for the reminder feature into my Main Chrome Extension Screen folder, however, now there are two manifest.json files. I know there cannot be two manifest.json files, hence i tried combining the two into one, which is now the current "manifest.json" file attached here. However, I am not sure if it would work, so If I need to attach my original "reminder feature's manifest.json file" then please tell me
+Now, the problematic thing is that this reminder feature is also another chrome extension itself. I want to combine my Main Chrome Extension Screen with this extension to make it into one single extension. To do that, I've redirected the files for the reminder feature into my Main Chrome Extension Screen folder, however, now there are two manifest.json files. I know there cannot be two manifest.json files, hence i tried combining the two into one, which is now the current "manifest.json" file attached here. However, I am not sure if it would work, so If I need to attach my original "reminder feature's manifest.json file" then please tell me. 
+
+Lastly, I want the code to redirect me to the reminder feature page WITHIN the chrome extension after I click the button. Let me explain. Primarily, the reminder feature was an chrome extension itself, hence it also have a opening page, or in other words the "default popup" page. Now, since I want to combine it with my Main Chrome Extension Page, the original default popup page for the reminder wouldn't be the "default popup" anymore. But, I want it so that when a specific button is pressed on the Main Chrome Extension Page, it would redirect to the main page for the reminder feature WITHIN the extension, not by a separate url. 
 
 Here are the files that are for the Reminder features: 
 
@@ -61,6 +63,10 @@ There are two things that needs to be fixed:
 
 1. Check if the combined manifest.json file works or not. 
 2. Fix the problem of the buttons not working within the extension 
+
+PROBLEM 2 UPDATE: 
+
+I have figured out how to redirect to a new tab using target=" blank ". However, I still do not know how to redirect to the Reminder feature's main page. This is different because I want to open it within the extension, not by a different link. 
 
 Things that I need help with: 
 1. redirecting to the next page of the chrome extension(basically how to move from main chrome extension screen to the reminder feature using buttons).
