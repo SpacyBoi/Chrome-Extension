@@ -1,6 +1,6 @@
 {
-  "name": "Drink Water Event Popup",
-  "description": "Demonstrates usage and features of the event page by reminding user to drink water",
+  "name": "Main and Scheduler views",
+  "description": "Proof of concept extension to demonstrate switching views in the same windoe (chrome popup)",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": [
@@ -12,7 +12,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "Drink Water Event",
+    "default_title": "POC",
     "default_popup": "popup.html"
   },
   "icons": {
